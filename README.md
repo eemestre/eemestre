@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eduardo Mestre</h1>
+<h1 align="center">Hi, I'm Eduardo Mestre</h1>
 <h3 align="center">A passionate Computer Engeneering student from Brazil at Universidade Tecnológica Federal do Paraná</h3>
 
 - 📫 How to reach me **eduardomestreg@gmail.com**
